@@ -8,8 +8,8 @@ const Login = ({ navigation }) => {
     const {login} = useContext(AuthContext);
    
     return (
-        <View style={{ flex: 1, backgroundColor: '#fff' }} >
-            <View style={{ alignItems: 'center', paddingTop: 16 }} >
+        <View style={{ flex: 1, backgroundColor: '#fff', justifyContent:'center' }} >
+            <View style={{ alignItems: 'center'}} >
                 <Image style={{ width: 200, height: 200, resizeMode: 'contain' }} source={{ uri: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsX9T0dQcbVzbu8ssxwM0INCkJNXHXe8-GgQ&usqp=CAU' }} />
             </View>
             <Text style={{ marginLeft: 16, fontSize: 25, fontWeight: '600', marginVertical: 10 }} >Email: </Text>
