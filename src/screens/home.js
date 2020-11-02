@@ -1,8 +1,8 @@
 import React, { useContext } from 'react'
-import {View, Text, TouchableOpacity} from 'react-native';
+import {View, Text, TouchableOpacity, Button} from 'react-native';
 import {AuthContext} from '../navigators/AuthProvider'
 
-const Home = () => {
+const Home = ({navigation}) => {
     const {user, logout} = useContext(AuthContext);
     return (
         <View style={{justifyContent: 'center', alignItems:'center', flex: 1}}>
@@ -11,6 +11,10 @@ const Home = () => {
             <TouchableOpacity style={{ alignItems: 'center',backgroundColor: '#032422' }} onPress={() => logout()} >
                 <Text style={{ fontSize: 25, color: '#95B404' }} >Logout</Text>
             </TouchableOpacity>
+            <Button
+          title="Go to Setting"
+          onPress={() => navigation.navigate('Settingscreen')}
+        />
         </View>
     )
 }

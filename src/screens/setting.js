@@ -1,16 +1,16 @@
 import * as React from 'react';
 import { Button, Text, View } from 'react-native';
 
-function Detail({ navigation }) {
+function Setting({ navigation }) {
     return (
       <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
         <Text>Detail!</Text>
         <Button
-          title="Go to Home"
-          onPress={() => navigation.navigate('Settingscreen')}
+          title="Go to Setail"
+          onPress={() => navigation.navigate('Home')}
         />
       </View>
     );
   }
 
-  export default Detail;
+  export default Setting;
