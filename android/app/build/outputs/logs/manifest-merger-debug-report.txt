@@ -9,6 +9,7 @@ MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/vfcit/.gradle/caches/tr
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/9134598f39ff992450ece10f886ec71a/flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/9dec2aaa1a2b48f53dd563074c1c44a6/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
 MERGED from [:react-native-community_masked-view] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_auth] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:react-native-firebase_app] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-gesture-handler] /Users/vfcit/Desktop/project/AppFirebase/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /Users/vfcit/Desktop/project/AppFirebase/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -38,8 +39,10 @@ MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/vfcit/.gradle/
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/fe8e71e101cbaf528cc486072ed4c28e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/b78a5399ea9beee523afeb7dc0d01a7c/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-auth:18.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/d760516b189d7d1ee4d1988b434b6297/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/84ed3e8f28836a33e45a4835bbd8bbf3/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/e2aaf5f91c6641b992344f1ea98f250f/firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.firebase:firebase-core:17.5.1] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/0b6a242b1c2d94918ff50be62e5aeaa6/firebase-core-17.5.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/8e4e8b79cca2e90031df23c485f662d9/firebase-analytics-17.6.0/AndroidManifest.xml:2:1-9:12
@@ -75,14 +78,14 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vfci
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/f58aded31185cc85b75b4af5bf41d6f0/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/aff266cae9a718e77c99431eda2bbce4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/2b77b338008a4a033ff8141ea7e2f236/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/2e5454e2986d1d25881079122bbcdfbd/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ea3bfb2ee5f4f5b5e14732adfdb6b186/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/c51f7beee8d8db2ab039c1193fc5997d/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/c8d258fe89319cd1a6e24defa826748c/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3b24523c209e746f364d111262620408/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/e18268382524a2d97ab46f9add103737/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/494632bb32bdcfc5b91d889511f3dd1c/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ea3bfb2ee5f4f5b5e14732adfdb6b186/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/af933a2f9189f43c4e1943e87eaab436/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/2e5454e2986d1d25881079122bbcdfbd/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/420f57a583860cab9badbb9394b4cf41/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/c2a0420626daa0fa1e5e4ba935ac2959/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/77c3b82e836a2d61703a622b15cef325/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
@@ -111,6 +114,8 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/vfcit/Desktop/project/AppFirebase/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/a0953a6941c1135d57623c7d643d23a3/flipper-0.54.0/AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/a0953a6941c1135d57623c7d643d23a3/flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_auth] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/4bed47f959792a1b8dfa7634eb2bc7ff/firebase-installations-16.3.2/AndroidManifest.xml:11:5-67
@@ -135,6 +140,10 @@ MERGED from [com.google.android.material:material:1.1.0] /Users/vfcit/.gradle/ca
 MERGED from [com.google.android.material:material:1.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/dd5b18c4f8a1c4aba0a4f23dae64f838/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-auth:18.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:22:5-38:19
 MERGED from [com.google.android.gms:play-services-auth:18.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/e2aaf5f91c6641b992344f1ea98f250f/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/e2aaf5f91c6641b992344f1ea98f250f/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.firebase:firebase-core:17.5.1] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/0b6a242b1c2d94918ff50be62e5aeaa6/firebase-core-17.5.1/AndroidManifest.xml:7:5-20
@@ -233,6 +242,8 @@ MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/vfcit/.gr
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/9dec2aaa1a2b48f53dd563074c1c44a6/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
 MERGED from [:react-native-community_masked-view] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_auth] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-firebase_app] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-firebase_app] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /Users/vfcit/Desktop/project/AppFirebase/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -291,10 +302,14 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vfcit/.gradle/cach
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/b78a5399ea9beee523afeb7dc0d01a7c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:18.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:18.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/d760516b189d7d1ee4d1988b434b6297/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/d760516b189d7d1ee4d1988b434b6297/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/84ed3e8f28836a33e45a4835bbd8bbf3/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/84ed3e8f28836a33e45a4835bbd8bbf3/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/e2aaf5f91c6641b992344f1ea98f250f/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/e2aaf5f91c6641b992344f1ea98f250f/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-core:17.5.1] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/0b6a242b1c2d94918ff50be62e5aeaa6/firebase-core-17.5.1/AndroidManifest.xml:5:5-44
@@ -365,6 +380,10 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/vfcit/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/aff266cae9a718e77c99431eda2bbce4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/2b77b338008a4a033ff8141ea7e2f236/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/2b77b338008a4a033ff8141ea7e2f236/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/2e5454e2986d1d25881079122bbcdfbd/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/2e5454e2986d1d25881079122bbcdfbd/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ea3bfb2ee5f4f5b5e14732adfdb6b186/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ea3bfb2ee5f4f5b5e14732adfdb6b186/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/c51f7beee8d8db2ab039c1193fc5997d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/c51f7beee8d8db2ab039c1193fc5997d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/c8d258fe89319cd1a6e24defa826748c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
@@ -375,12 +394,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vfcit/.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/e18268382524a2d97ab46f9add103737/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/494632bb32bdcfc5b91d889511f3dd1c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/494632bb32bdcfc5b91d889511f3dd1c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ea3bfb2ee5f4f5b5e14732adfdb6b186/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ea3bfb2ee5f4f5b5e14732adfdb6b186/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/af933a2f9189f43c4e1943e87eaab436/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/af933a2f9189f43c4e1943e87eaab436/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/2e5454e2986d1d25881079122bbcdfbd/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/2e5454e2986d1d25881079122bbcdfbd/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/420f57a583860cab9badbb9394b4cf41/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/420f57a583860cab9badbb9394b4cf41/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/c2a0420626daa0fa1e5e4ba935ac2959/multidex-2.0.0/AndroidManifest.xml:20:5-43
@@ -405,6 +420,32 @@ uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/a0953a6941c1135d57623c7d643d23a3/flipper-0.54.0/AndroidManifest.xml:16:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/a0953a6941c1135d57623c7d643d23a3/flipper-0.54.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/7f95d99c31c4f47ee75a51b3b4a187a5/play-services-measurement-17.6.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/7f95d99c31c4f47ee75a51b3b4a187a5/play-services-measurement-17.6.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/9464bb78c263ff1ff40b273b8000d6ba/play-services-measurement-impl-17.6.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/9464bb78c263ff1ff40b273b8000d6ba/play-services-measurement-impl-17.6.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/17ed1e0b4bac6cd6293cb0758a85e946/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/17ed1e0b4bac6cd6293cb0758a85e946/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_auth] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/4bed47f959792a1b8dfa7634eb2bc7ff/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/4bed47f959792a1b8dfa7634eb2bc7ff/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/7f95d99c31c4f47ee75a51b3b4a187a5/play-services-measurement-17.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/7f95d99c31c4f47ee75a51b3b4a187a5/play-services-measurement-17.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/9464bb78c263ff1ff40b273b8000d6ba/play-services-measurement-impl-17.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/9464bb78c263ff1ff40b273b8000d6ba/play-services-measurement-impl-17.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/17ed1e0b4bac6cd6293cb0758a85e946/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/17ed1e0b4bac6cd6293cb0758a85e946/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/vfcit/Desktop/project/AppFirebase/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:18.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
@@ -425,6 +466,44 @@ ADDED from [com.google.android.gms:play-services-auth:18.1.0] /Users/vfcit/.grad
 		ADDED from [com.google.android.gms:play-services-auth:18.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:36:13-107
 	android:name
 		ADDED from [com.google.android.gms:play-services-auth:18.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/4bed47f959792a1b8dfa7634eb2bc7ff/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/4bed47f959792a1b8dfa7634eb2bc7ff/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/54e835d79bf29620e1ecb843b6af0b8a/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/54e835d79bf29620e1ecb843b6af0b8a/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/54e835d79bf29620e1ecb843b6af0b8a/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/54e835d79bf29620e1ecb843b6af0b8a/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.4.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/3d9c77e14f1081824312cf69423aceab/firebase-auth-19.4.0/AndroidManifest.xml:37:17-109
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
 	android:exported
@@ -433,42 +512,6 @@ ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vfcit/.grad
 		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/4bed47f959792a1b8dfa7634eb2bc7ff/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/4bed47f959792a1b8dfa7634eb2bc7ff/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/7f95d99c31c4f47ee75a51b3b4a187a5/play-services-measurement-17.6.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/7f95d99c31c4f47ee75a51b3b4a187a5/play-services-measurement-17.6.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/9464bb78c263ff1ff40b273b8000d6ba/play-services-measurement-impl-17.6.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/9464bb78c263ff1ff40b273b8000d6ba/play-services-measurement-impl-17.6.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/17ed1e0b4bac6cd6293cb0758a85e946/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/17ed1e0b4bac6cd6293cb0758a85e946/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:24:5-79
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:23:22-76
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/7f95d99c31c4f47ee75a51b3b4a187a5/play-services-measurement-17.6.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/7f95d99c31c4f47ee75a51b3b4a187a5/play-services-measurement-17.6.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/9464bb78c263ff1ff40b273b8000d6ba/play-services-measurement-impl-17.6.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/9464bb78c263ff1ff40b273b8000d6ba/play-services-measurement-impl-17.6.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/17ed1e0b4bac6cd6293cb0758a85e946/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/17ed1e0b4bac6cd6293cb0758a85e946/play-services-measurement-sdk-api-17.6.0/AndroidManifest.xml:25:5-68
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:24:22-65
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/4bed47f959792a1b8dfa7634eb2bc7ff/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/4bed47f959792a1b8dfa7634eb2bc7ff/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/54e835d79bf29620e1ecb843b6af0b8a/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/54e835d79bf29620e1ecb843b6af0b8a/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:29:13-37
-	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/54e835d79bf29620e1ecb843b6af0b8a/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/54e835d79bf29620e1ecb843b6af0b8a/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:28:13-84
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
 ADDED from [com.google.android.gms:play-services-measurement-api:17.6.0] /Users/vfcit/.gradle/caches/transforms-2/files-2.1/ed9411aaa193a18196bf87d3d0d534bf/play-services-measurement-api-17.6.0/AndroidManifest.xml:30:13-32:85
 	android:value
