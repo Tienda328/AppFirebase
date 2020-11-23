@@ -20,7 +20,7 @@
 		6501AB0EC448DF8D7317602B /* libPods-AppFirebase-AppFirebaseTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 27E812552C581CE2D3A28161 /* libPods-AppFirebase-AppFirebaseTests.a */; };
 		7DF31A1EEF75874A83B76194 /* libPods-AppFirebase.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6ACA965F407BBACF4624691C /* libPods-AppFirebase.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		88249DBE254D23AD00AA6CD4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 88249DBD254D23AD00AA6CD4 /* GoogleService-Info.plist */; };
+		88031040256B694E00807E33 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8803103F256B694E00807E33 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,7 +59,7 @@
 		7E1A82B9AFFE993141AB3313 /* Pods-AppFirebase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppFirebase.debug.xcconfig"; path = "Target Support Files/Pods-AppFirebase/Pods-AppFirebase.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = AppFirebase/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		827F5EF6EC44053AFCC123CF /* Pods-AppFirebase-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppFirebase-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-AppFirebase-tvOSTests/Pods-AppFirebase-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		88249DBD254D23AD00AA6CD4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		8803103F256B694E00807E33 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8BAEBCB86F279F10E96E4DD8 /* Pods-AppFirebase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppFirebase.release.xcconfig"; path = "Target Support Files/Pods-AppFirebase/Pods-AppFirebase.release.xcconfig"; sourceTree = "<group>"; };
 		A4575594DCD017FF705A9601 /* Pods-AppFirebase-AppFirebaseTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppFirebase-AppFirebaseTests.debug.xcconfig"; path = "Target Support Files/Pods-AppFirebase-AppFirebaseTests/Pods-AppFirebase-AppFirebaseTests.debug.xcconfig"; sourceTree = "<group>"; };
 		BABCD4B54BA15FF84E9A17FA /* Pods-AppFirebase-AppFirebaseTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AppFirebase-AppFirebaseTests.release.xcconfig"; path = "Target Support Files/Pods-AppFirebase-AppFirebaseTests/Pods-AppFirebase-AppFirebaseTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -161,7 +161,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				88249DBD254D23AD00AA6CD4 /* GoogleService-Info.plist */,
+				8803103F256B694E00807E33 /* GoogleService-Info.plist */,
 				13B07FAE1A68108700A75B9A /* AppFirebase */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* AppFirebaseTests */,
@@ -345,7 +345,7 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				88249DBE254D23AD00AA6CD4 /* GoogleService-Info.plist in Resources */,
+				88031040256B694E00807E33 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
