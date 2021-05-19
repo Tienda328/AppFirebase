@@ -167,6 +167,7 @@
 				00E356EF1AD99517003FC87E /* AppFirebaseTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				8895E1CC255297960044C9AA /* Resources */,
 				AE66649C601BC909C8EBB923 /* Pods */,
 			);
 			indentWidth = 2;
@@ -183,6 +184,13 @@
 				2D02E4901E0B4A5D006451C7 /* AppFirebase-tvOSTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		8895E1CC255297960044C9AA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		AE66649C601BC909C8EBB923 /* Pods */ = {
